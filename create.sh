@@ -1,5 +1,3 @@
 #!/bin/bash
-
-touch notes.txt
-echo "Notes ready"
-
+touch hello.txt
+echo "File created"
